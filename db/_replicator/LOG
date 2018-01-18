@@ -1,1 +1,5 @@
-2018/01/18-12:04:03.532 2fdc Delete type=3 #1
+2018/01/18-15:39:37.484 5fc0 Recovering log #3
+2018/01/18-15:39:37.484 5fc0 Level-0 table #5: started
+2018/01/18-15:39:37.487 5fc0 Level-0 table #5: 2360 bytes OK
+2018/01/18-15:39:37.493 5fc0 Delete type=0 #3
+2018/01/18-15:39:37.493 5fc0 Delete type=3 #2

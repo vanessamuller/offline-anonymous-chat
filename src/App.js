@@ -5,7 +5,7 @@ import * as RxDB from 'rxdb';
 import { QueryChangeDetector} from 'rxdb';
 import {schema} from './Schema';
 import {ToastContainer, toast} from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.min.css';
+// import 'react-toastify/dist/ReactToastify.min.css';
 import * as moment from 'moment';
 
 QueryChangeDetector.enable();
@@ -26,7 +26,7 @@ class App extends Component {
     };
     this.subs = [];
     this.addMessage = this.addMessage.bind(this);
-    this.handleMEssageChange = this.handleMEssageChange.bind(this);
+    this.handleMessageChange = this.handleMessageChange.bind(this);
   }
 
   async createDatabase () {
