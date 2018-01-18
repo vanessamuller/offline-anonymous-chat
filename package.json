@@ -3,9 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "concurrently": "^3.5.1",
+    "moment": "^2.20.1",
+    "pouchdb-adapter-http": "^6.4.1",
+    "pouchdb-adapter-idb": "^6.4.1",
+    "pouchdb-server": "^2.3.7",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.1.0"
+    "react-scripts": "1.1.0",
+    "react-toastify": "^3.2.2",
+    "rxdb": "^7.3.1",
+    "rxjs": "^5.5.6",
+    "serve": "^6.4.8"
   },
   "scripts": {
     "start": "react-scripts start",
