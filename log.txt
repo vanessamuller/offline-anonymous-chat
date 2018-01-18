@@ -1,0 +1,31 @@
+[Thu, 18 Jan 2018 17:04:03 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Thu, 18 Jan 2018 17:04:03 GMT] [info] [<0.000.0>] database files will be saved to ./db
+[Thu, 18 Jan 2018 17:04:03 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Thu, 18 Jan 2018 17:05:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils 301
+[Thu, 18 Jan 2018 17:05:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 200
+[Thu, 18 Jan 2018 17:05:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 200
+[Thu, 18 Jan 2018 17:05:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 200
+[Thu, 18 Jan 2018 17:05:23 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 200
+[Thu, 18 Jan 2018 17:05:24 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Thu, 18 Jan 2018 17:05:24 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 200
+[Thu, 18 Jan 2018 17:05:24 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 200
+[Thu, 18 Jan 2018 17:05:24 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 200
+[Thu, 18 Jan 2018 17:05:24 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1516295123925 200
+[Thu, 18 Jan 2018 17:05:24 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1516295123926 200
+[Thu, 18 Jan 2018 17:05:24 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1516295123927 200
+[Thu, 18 Jan 2018 17:05:24 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 200
+[Thu, 18 Jan 2018 17:05:24 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1516295123928 200
+[Thu, 18 Jan 2018 17:05:24 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-favicon.png 200
+[Thu, 18 Jan 2018 17:05:43 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 304
+[Thu, 18 Jan 2018 17:05:43 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Thu, 18 Jan 2018 17:05:43 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Thu, 18 Jan 2018 17:05:44 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Thu, 18 Jan 2018 17:05:44 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Thu, 18 Jan 2018 17:05:44 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 304
+[Thu, 18 Jan 2018 17:05:44 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 304
+[Thu, 18 Jan 2018 17:05:44 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 304
+[Thu, 18 Jan 2018 17:05:44 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1516295144113 200
+[Thu, 18 Jan 2018 17:05:44 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1516295144114 200
+[Thu, 18 Jan 2018 17:05:45 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1516295144115 200
+[Thu, 18 Jan 2018 17:05:45 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 304
+[Thu, 18 Jan 2018 17:05:45 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1516295144116 200
